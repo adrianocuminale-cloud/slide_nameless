@@ -9,13 +9,13 @@
   "theme_color": "#4f46e5",
   "icons": [
     {
-      "src": "https://www.adrianocuminale.it/slide_nameless/nameless_slides.png",
+      "src": "nameless_slides.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://www.adrianocuminale.it/slide_nameless/nameless_slides.png",
+      "src": "nameless_slides_small.png",
       "sizes": "192x192",
       "type": "image/png"
     }
